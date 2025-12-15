@@ -27,17 +27,21 @@ MurukesuEtAl_BMCGeriatr_2026/
 
 ## Authorship and affiliations
 
-* Resshaya Roobini Murukesu (TUMCREATE, Singapore; TUM School of Medicine & Health, Department Health and Sport Sciences, Technical University of Munich, Munich, Germany) — [ORCID: 0000-0002-0947-5817](https://orcid.org/0000-0002-0947-5817)
-* Zahrah Alwi Alkaff (TUMCREATE, Singapore; TUM School of Medicine & Health, Department Health and Sport Sciences, Technical University of Munich, Munich, Germany) — [ORCID: 0000-0003-7473-4062](https://orcid.org/0000-0003-7473-4062)
-* Aiman Nusrat (TUMCREATE, Singapore; TUM School of Medicine & Health, Department Health and Sport Sciences, Technical University of Munich, Munich, Germany) — [ORCID: 0009-0003-5225-9387](https://orcid.org/0009-0003-5225-9387)
-* Denz Del Villar (TUMCREATE, Singapore; TUM School of Medicine & Health, Department Health and Sport Sciences, Technical University of Munich, Munich, Germany) — [ORCID: 0000-0002-5435-3987](https://orcid.org/0000-0002-5435-3987)
-* Johannes Zauner (TUMCREATE, Singapore) — [ORCID: 0009-0002-3558-1448](https://orcid.org/0009-0002-3558-1448)
-* Manuel Spitschan (TUMCREATE, Singapore; TUM School of Medicine & Health, Department Health and Sport Sciences, Technical University of Munich, Munich, Germany; TUM Institute for Advanced Study (TUM-IAS), Technical University of Munich, Garching, Germany; Max Planck Institute for Biological Cybernetics, Max Planck Research Group Translational Sensory & Circadian Neuroscience, Tübingen, Germany) — [ORCID: 0000-0002-8566-0895](https://orcid.org/0000-0002-8566-0895) *(corresponding author: manuel.spitschan@tum.de)*
+* Resshaya Roobini Murukesu (1, 2) — [ORCID: 0000-0002-0947-5817](https://orcid.org/0000-0002-0947-5817)
+* Zahrah Alwi Alkaff (2, 1) — [ORCID: 0009-0003-7344-3363](https://orcid.org/0009-0003-7344-3363)
+* Denz Del Villar (1, 2) — [ORCID: 0009-0000-5225-9987](https://orcid.org/0009-0000-5225-9987)
+* Johannes Zauner (2, 4) — [ORCID: 0000-0003-2171-4566](https://orcid.org/0000-0003-2171-4566)
+* Manuel Spitschan (1, 2, 3, 4) — [ORCID: 0000-0002-8572-9268](https://orcid.org/0000-0002-8572-9268) *(corresponding author: manuel.spitschan@tum.de)*
+
+1. TUMCREATE, Singapore, Singapore  
+2. TUM School of Medicine & Health, Department Health and Sport Sciences, Technical University of Munich, Munich, Germany  
+3. TUM Institute for Advanced Study (TUM-IAS), Technical University of Munich, Garching, Germany  
+4. Max Planck Institute for Biological Cybernetics, Max Planck Research Group Translational Sensory & Circadian Neuroscience, Tübingen, Germany
 
 ## How to cite
 
 Please cite the Zenodo record when reusing any of the materials in this supplement:
 
-> Murukesu RR, Alkaff ZA, Nusrat A, Del Villar D, Zauner J, Spitschan M. (2026). LightSPAN protocol supplement (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17914996
+> Murukesu RR, Alkaff ZA, Del Villar D, Zauner J, Spitschan M. (2026). LightSPAN protocol supplement (v1.0). Zenodo. https://doi.org/10.5281/zenodo.17914996
 
 The associated study protocol is published in BMC Geriatrics.
