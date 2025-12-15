@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "LightSPAN protocol supplement"
+message: "If you use this repository, please cite the Zenodo record."
+authors:
+  - family-names: Murukesu
+    given-names: Resshaya Roobini
+    orcid: https://orcid.org/0000-0002-0947-5817
+    affiliation: "TUMCREATE, Singapore, Singapore; TUM School of Medicine & Health, Department Health and Sport Sciences, Technical University of Munich, Munich, Germany"
+  - family-names: Alkaff
+    given-names: Zahrah Alwi
+    orcid: https://orcid.org/0009-0003-7344-3363
+    affiliation: "TUM School of Medicine & Health, Department Health and Sport Sciences, Technical University of Munich, Munich, Germany; TUMCREATE, Singapore, Singapore"
+  - family-names: Del Villar
+    given-names: Denz
+    orcid: https://orcid.org/0009-0000-5225-9987
+    affiliation: "TUMCREATE, Singapore, Singapore; TUM School of Medicine & Health, Department Health and Sport Sciences, Technical University of Munich, Munich, Germany"
+  - family-names: Zauner
+    given-names: Johannes
+    orcid: https://orcid.org/0000-0003-2171-4566
+    affiliation: "TUM School of Medicine & Health, Department Health and Sport Sciences, Technical University of Munich, Munich, Germany; Max Planck Institute for Biological Cybernetics, Max Planck Research Group Translational Sensory & Circadian Neuroscience, Tübingen, Germany"
+  - family-names: Spitschan
+    given-names: Manuel
+    orcid: https://orcid.org/0000-0002-8572-9268
+    affiliation: "TUMCREATE, Singapore, Singapore; TUM School of Medicine & Health, Department Health and Sport Sciences, Technical University of Munich, Munich, Germany; TUM Institute for Advanced Study (TUM-IAS), Technical University of Munich, Garching, Germany; Max Planck Institute for Biological Cybernetics, Max Planck Research Group Translational Sensory & Circadian Neuroscience, Tübingen, Germany"
+version: "1.0"
+doi: 10.5281/zenodo.17914996
+url: https://doi.org/10.5281/zenodo.17914996
+license: MIT
+repository-code: https://github.com/tscnlab/MurukesuEtAl_BMCGeriatr_2026
+notes: Corresponding author: manuel.spitschan@tum.de
